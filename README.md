@@ -1,1 +1,1 @@
-# GoLadies Brasil
+# GoLadies
