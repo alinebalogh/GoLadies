@@ -1,1 +1,1 @@
-# go-ladies-br
+# GoLadies Brasil
