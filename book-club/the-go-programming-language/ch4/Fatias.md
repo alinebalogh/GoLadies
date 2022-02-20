@@ -1,6 +1,6 @@
 **Table of contents**
 
-- [4.1 Fatias (Slices)](#41-fatias-slices)
+- [4.2 Fatias (Slices)](#42-fatias-slices)
   - [O que são?](#o-que-são)
   - [Arrays e fatias, intimamente conectados](#arrays-e-fatias-intimamente-conectados)
   - [Como criar fatias a partir de um array já existente](#como-criar-fatias-a-partir-de-um-array-já-existente)
@@ -12,7 +12,7 @@
   - [Particularidades das fatias](#particularidades-das-fatias)
   - [Append. O que seria das fatias sem a função append :relieved: ?](#append-o-que-seria-das-fatias-sem-a-função-append-relieved-)
 
-# 4.1 Fatias (Slices)
+# 4.2 Fatias (Slices)
 
 <img src="https://golangforall.com/assets/gophslice.svg" alt="gopher slicing a beef" width="200"/>
 
