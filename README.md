@@ -4,6 +4,8 @@ Repositório para reunir documentação de atividades de ações realizadas pelo
 
 As atividades estão organizadas por capitulo, que estão classificadas por reuniões do grupo.
 
+Livro base: http://www.gopl.io/
+
 Para participar, basta entrar em contato.
 
 ## Agenda
