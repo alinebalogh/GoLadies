@@ -24,4 +24,5 @@ Somos desenvolvedoras Golang
 
 # Agenda
 Nosso grupo de estudos acontece toda quarta-feira das 19h às 20h
+
 Para participar, basta entrar em contato.
