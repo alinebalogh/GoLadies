@@ -10,7 +10,7 @@
 ## O que é?
 Padrão orientado a objetos: do jeito Go
 
-Vamos ver como Go aplica um dos pilares da programação orientada a objetos, que são:encapsulamento, herança e polimorfismo. 
+Vamos ver como Go aplica um dos pilares da programação orientada a objetos, que são: encapsulamento, herança e polimorfismo. 
 
 Vamos falar de *encapsulamento* hoje. Esse padrão é característica de linguagens baseadas em classe, as quais estão nas linguagens orientadas a objeto mais populares.
 
@@ -19,7 +19,7 @@ Go encapsula coisas a nível de pacote. Nomes que começam com letra minúscula 
 O mesmo sistema de ocultação vale para campos de uma struc ou aos métodos de um tipo. Já para encapsular um objeto, devemos transformá-lo em struct.
 
 ## Quando usar?
-Para saber se devemos encapsular ou não é possível começar pensando se quero que cliets de outro pacote tenham o poder de alterar/ver meu meodo ou campo ou objeto, se sim, vou deixar público, se não, deixo privado.
+Para saber se devemos encapsular ou não é possível começar pensando se quero que clients de outro pacote tenham o poder de alterar/ver meu meu dado ou campo ou objeto, se sim, vou deixar público, se não, deixo privado.
 
 ## Como usar?
 
